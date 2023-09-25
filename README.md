@@ -10,11 +10,19 @@ In this review, we will talk about how Craigslist looks and works. We'll see if 
 
 ## Evaluation of the use cases and potential target audience for Craigslist (between 1 - 2 paragraphs and/or bullet point lists)
 
+- Category browsing: for bargain hunters with no specific needs in mind
+- Search function:  for individuals who want to buy specific items
+- posting is quite straight forward
+- no measures for transaction security
 
 ## Evaluation of the overall design (between 1 - 2 paragraphs and/or bullet point lists)
 
+- All core functions are there
+- Design is using a minimalist approach
 
 ## Evaluation of the UI/UX of the app (between 1 - 2 paragraphs and/or bullet point lists)
 
+- It mainly adopts a text based UI
+- It 
 
 ## Conclusion (between 1 - 2 paragraphs)
