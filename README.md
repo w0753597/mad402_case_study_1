@@ -5,7 +5,7 @@
 
 In this evaluation, I will assess its design, use cases, and user experience (UX/UI) to understand its strengths and areas for improvement.
 
-## Evaluation of the use cases and potential target audience for Craigslist (between 1 - 2 paragraphs and/or bullet point lists)
+## Evaluation of the use cases and potential target audience for Craigslist
 
 Craigslist has 8 categories and more than a hundred subcategories, making it usable in a wide range of use cases, and making it relevant to almost everyone.
 
